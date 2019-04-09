@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\bin\Debug\Books.dll
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\bin\Debug\Books.pdb
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\obj\Debug\Books.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\obj\Debug\Books.dll
+C:\Users\Administrator\source\repos\HomePCC_sharp\Books\obj\Debug\Books.pdb

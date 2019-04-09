@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\bin\Debug\HomeworkLibraryManager.exe.config
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\bin\Debug\HomeworkLibraryManager.exe
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\bin\Debug\HomeworkLibraryManager.pdb
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\bin\Debug\Books.dll
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\bin\Debug\Books.pdb
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\obj\Debug\HomeworkLibraryManager.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\obj\Debug\HomeworkLibraryManager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\obj\Debug\HomeworkLibraryManager.csproj.CopyComplete
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\obj\Debug\HomeworkLibraryManager.exe
+C:\Users\Administrator\source\repos\HomePCC_sharp\HomeworkLibraryManager\obj\Debug\HomeworkLibraryManager.pdb

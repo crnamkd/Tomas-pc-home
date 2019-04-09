@@ -1,0 +1,2 @@
+C:\Users\Administrator\Documents\GitHub\Tomas-pc-home\ConsoleApp1\obj\Debug\DomasnaLibrary.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\Tomas-pc-home\ConsoleApp1\obj\Debug\DomasnaLibrary.csproj.CoreCompileInputs.cache
