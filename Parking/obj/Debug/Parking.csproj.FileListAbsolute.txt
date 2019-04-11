@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\bin\Debug\Parking.exe.config
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\bin\Debug\Parking.exe
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\bin\Debug\Parking.pdb
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\obj\Debug\Parking.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\obj\Debug\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\obj\Debug\Parking.exe
+C:\Users\Administrator\Documents\GitHub\sedc7-06-csharpadvanced\g5\Class06\Parking\obj\Debug\Parking.pdb
